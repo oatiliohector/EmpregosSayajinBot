@@ -1,1 +1,1 @@
-# Curriculo Sayajin Bot
+# Vaga Sayajin Bot
