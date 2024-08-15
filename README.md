@@ -1,3 +1,1 @@
-# Vaga Sayajin Bot
-
-### De dev para dev.
+# Curriculo Sayajin Bot

@@ -1,0 +1,20 @@
+org: curriculosayajinbot
+app: curriculosayajinbot
+service: curriculoSayajinBot
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+
+functions:
+  app:
+    handler: app.app
+    events:
+      - http:
+          path: /
+          method: any
+          cors: true
+      - http:
+          path: '{proxy+}'
+          method: any
+          cors: true
