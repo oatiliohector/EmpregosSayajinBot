@@ -1,6 +1,6 @@
-org: vagaSayajinBot
-app: vagaSayajinBot
-service: vagaSayajinBot
+org: thehecktour
+app: vagasayajinbot
+service: vagaSayajinbot
 
 provider:
   name: aws
