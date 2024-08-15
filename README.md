@@ -1,1 +1,1 @@
-# Vaga Sayajin Bot
+# VagaSayajinBot
