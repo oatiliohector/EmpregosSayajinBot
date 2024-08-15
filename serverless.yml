@@ -1,6 +1,6 @@
-org: curriculosayajinbot
-app: curriculosayajinbot
-service: curriculoSayajinBot
+org: vagaSayajinBot
+app: vagaSayajinBot
+service: vagaSayajinBot
 
 provider:
   name: aws
