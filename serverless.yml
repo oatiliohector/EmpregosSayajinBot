@@ -4,11 +4,13 @@ service: vagaSayajinbot
 
 provider:
   name: aws
-  runtime: nodejs18.x
+  runtime: python3.9
+  stage: dev
+  region: us-east-1
 
 functions:
   app:
-    handler: app.app
+    handler: handler.app
     events:
       - http:
           path: /
