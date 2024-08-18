@@ -11,6 +11,7 @@ python = "^3.12"
 jobspy = "^0.29.0"
 flask = "^3.0.3"
 python-dotenv = "^1.0.1"
+pre-commit = "^3.8.0"
 
 
 [build-system]
