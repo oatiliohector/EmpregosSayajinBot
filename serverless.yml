@@ -10,7 +10,7 @@ provider:
 
 functions:
   app:
-    handler: handler.app
+    handler: app.app
     events:
       - http:
           path: /
